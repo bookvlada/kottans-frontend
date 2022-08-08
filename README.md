@@ -16,7 +16,7 @@ Articles were quite interesting because I had not come across HTTP before. But L
 
  
 **Git Collaboration**
-I really enjoyed the Coursera course, everything was explained very well and practical examples were given. 
+I really enjoyed the Coursera course, everything was explained very well and practical examples were given
 ![coursera course 4](https://user-images.githubusercontent.com/94987504/183456878-32098622-ef73-4cfa-8ab6-874af7142f2d.png)
 ![coursera course 5](https://user-images.githubusercontent.com/94987504/183456882-9ba5c033-eade-48c8-b221-f3ea497b2363.png)
 ![coursera course 6](https://user-images.githubusercontent.com/94987504/183456887-4e92a814-7eaa-447e-abc5-fcf6455cbbfb.png)
