@@ -5,8 +5,8 @@ Happy to learn with us!!!
 
 ## STAGE0 ##
 
-_Linux CLI and Networking
-  Articles were quite interesting because I had not come across HTTP before. But Linux Survival turned out to be a bit boring
+**Linux CLI and Networking**
+Articles were quite interesting because I had not come across HTTP before. But Linux Survival turned out to be a bit boring
   
 
 ![Знімок екрана 3](https://user-images.githubusercontent.com/94987504/183442205-98b08901-59d2-489c-883a-37dcd3966043.png)
