@@ -15,4 +15,13 @@ Articles were quite interesting because I had not come across HTTP before. But L
 ![Знімок екрана 2](https://user-images.githubusercontent.com/94987504/183442218-333a0386-4e65-4a70-895c-4aa23e17d107.png)
 
  
-**VCS GIT HUB nd Collaboration**
+**Git Collaboration**
+I really enjoyed the Coursera course, everything was explained very well and practical examples were given. 
+![coursera course 4](https://user-images.githubusercontent.com/94987504/183456878-32098622-ef73-4cfa-8ab6-874af7142f2d.png)
+![coursera course 5](https://user-images.githubusercontent.com/94987504/183456882-9ba5c033-eade-48c8-b221-f3ea497b2363.png)
+![coursera course 6](https://user-images.githubusercontent.com/94987504/183456887-4e92a814-7eaa-447e-abc5-fcf6455cbbfb.png)
+![Git2 edit](https://user-images.githubusercontent.com/94987504/183456889-863ae799-3eb1-425a-a3d6-48bc3a13344a.png)
+![Git3 edit](https://user-images.githubusercontent.com/94987504/183456892-e1c206a3-9918-4d8e-bb96-d82ea2e2d843.png)
+![coursera course 1](https://user-images.githubusercontent.com/94987504/183456895-80f080b8-36be-47a2-8c39-67cfcbd7c0ac.png)
+![coursera course 2](https://user-images.githubusercontent.com/94987504/183456898-787af3e2-4fa1-4239-b0a8-c221f1d2da00.png)
+![coursera course 3](https://user-images.githubusercontent.com/94987504/183456901-6afd7617-e910-459c-84e1-72968cc93a85.png)
