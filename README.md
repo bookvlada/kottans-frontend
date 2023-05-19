@@ -1,6 +1,6 @@
 ### Hello Kottans! ###
 My name is Vlada, I'm 14 years old and I start to learn a frontend developing. Earlier I studied python basics, web-design and english. I hope these skills will help me during the course
-Happy to learn with us!!!
+Happy to learn with you!!!
 :>
 
 ## STAGE0 ##
